@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="api/src/main/java"/>
+	<classpathentry kind="src" path="api/src/test/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="src" path="buildSrc/build/groovy-dsl-plugins/output/adapter-src"/>
+	<classpathentry kind="src" path="utilities/src/main/java"/>
+	<classpathentry kind="lib" path="buildSrc/build/libs/buildSrc.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="buildSrc/build/classes/java/main"/>
+</classpath>
